@@ -1,0 +1,22 @@
+{
+  "name": "learning-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node text.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassan-nahid/mastering_git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hassan-nahid/mastering_git/issues"
+  },
+  "homepage": "https://github.com/hassan-nahid/mastering_git#readme"
+}
